@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "yt-dlp Quick Downloader",
+  "version": "1.0",
+  "description": "Download current tab using yt-dlp",
+  "permissions": ["tabs"],
+  "host_permissions": ["http://localhost:3000/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
