@@ -1,7 +1,4 @@
 # Youtube-Downloader-Extension-Local
-A Browser extension that lets you download MP3 and MP4 files from Youtube directly to your PC via yt-dlp.exe. This extension reduces the complexity typing out complex commands in CLI and saves time.
-
-# Local yt-dlp Browser Downloader
 
 A local browser extension + background server that allows you to download the current page URL using `yt-dlp` with one click.
 
